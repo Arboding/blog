@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arboding.github.io</id>
-    <title>Hexo</title>
-    <subtitle></subtitle>
+    <title>卿词</title>
+    <subtitle>=仰望星空的人，总会比低头赶路的人看得更远=</subtitle>
     <icon>https://arboding.github.io/images/favicon.ico</icon>
     <link href="https://arboding.github.io" />
     <author>
