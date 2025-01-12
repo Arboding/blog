@@ -23,7 +23,7 @@
             <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
             <pubDate>Sun, 12 Jan 2025 15:51:01 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;查找概论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查找概论&#34;&gt;#&lt;/a&gt; 查找概论&lt;/h2&gt;
-&lt;p&gt;** 查找表：** 查找表是由同一类型的数据元素（或记录）构成的集合。如：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;查找表&lt;/code&gt; ：查找表是由同一类型的数据元素（或记录）构成的集合。如：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/Arboding/picgo/main/img202501122011330.png&#34; alt=&#34;image-20250106083122613&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关键字&lt;/strong&gt;是数据元素中某个数据项的值，又称键值，用它可以标志一个数据元素，也可以标志一个记录的某个数据项，我们称为关键码&lt;/p&gt;
 &lt;p&gt;若此关键字可以唯一地标志一个记录，则称此关键字为关键字，对于那些可以识别多个数据元素的关键字，我们称为次关键字&lt;/p&gt;
