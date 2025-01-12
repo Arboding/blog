@@ -11,7 +11,7 @@
     <updated>2025-01-12T07:51:01.855Z</updated>
     <entry>
         <id>https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC7%E7%AB%A0/%E6%9F%A5%E6%89%BE/</id>
-        <title>1.查找</title>
+        <title>查找</title>
         <link rel="alternate" href="https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC7%E7%AB%A0/%E6%9F%A5%E6%89%BE/"/>
         <content type="html">&lt;h2 id=&#34;查找概论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查找概论&#34;&gt;#&lt;/a&gt; 查找概论&lt;/h2&gt;
 &lt;p&gt;** 查找表：** 查找表是由同一类型的数据元素（或记录）构成的集合。如：&lt;/p&gt;
@@ -114,13 +114,13 @@
         <category term="计算机" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" />
         <category term="数据结构" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <category term="概念" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/" />
-        <category term="第七章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC%E4%B8%83%E7%AB%A0/" />
+        <category term="第7章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC7%E7%AB%A0/" />
         <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <updated>2025-01-12T07:51:01.855Z</updated>
     </entry>
     <entry>
         <id>https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC6%E7%AB%A0/%E5%9B%BE/</id>
-        <title>1.图</title>
+        <title>图</title>
         <link rel="alternate" href="https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC6%E7%AB%A0/%E5%9B%BE/"/>
         <content type="html">&lt;p&gt;图：图是由顶点的有穷非空集合和顶点之间边的集合组成的，通常表示为 G (V,E), 其中，G 表示一个图，V 时图 G 中顶点的集合，E 时图 G 中边的集合&lt;/p&gt;
 &lt;h2 id=&#34;图的定义与术语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图的定义与术语&#34;&gt;#&lt;/a&gt; 图的定义与术语&lt;/h2&gt;
@@ -399,13 +399,13 @@
         <category term="计算机" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" />
         <category term="数据结构" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <category term="概念" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/" />
-        <category term="第六章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC%E5%85%AD%E7%AB%A0/" />
+        <category term="第6章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC6%E7%AB%A0/" />
         <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <updated>2025-01-12T07:51:01.850Z</updated>
     </entry>
     <entry>
         <id>https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC5%E7%AB%A0/%E6%A0%91/</id>
-        <title>1.树</title>
+        <title>树</title>
         <link rel="alternate" href="https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC5%E7%AB%A0/%E6%A0%91/"/>
         <content type="html">&lt;h2 id=&#34;一-树的概念与基本术语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-树的概念与基本术语&#34;&gt;#&lt;/a&gt; 一、树的概念与基本术语&lt;/h2&gt;
 &lt;h3 id=&#34;1树的定义tree&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1树的定义tree&#34;&gt;#&lt;/a&gt; 1. 树的定义 (Tree)&lt;/h3&gt;
@@ -617,13 +617,13 @@ typedef struct BiTNode&amp;#123;
         <category term="计算机" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" />
         <category term="数据结构" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <category term="概念" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/" />
-        <category term="第五章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC%E4%BA%94%E7%AB%A0/" />
+        <category term="第5章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC5%E7%AB%A0/" />
         <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <updated>2025-01-12T07:51:01.840Z</updated>
     </entry>
     <entry>
         <id>https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC4%E7%AB%A0/1.%E4%B8%B2/</id>
-        <title>1.串</title>
+        <title>串</title>
         <link rel="alternate" href="https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC4%E7%AB%A0/1.%E4%B8%B2/"/>
         <content type="html">&lt;p&gt;串是由零个或多个字符组成的有限序列，又叫字符串&lt;/p&gt;
 &lt;h3 id=&#34;串的比较&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#串的比较&#34;&gt;#&lt;/a&gt; 串的比较&lt;/h3&gt;
@@ -759,7 +759,7 @@ k=next[k];&lt;br /&gt;
         <category term="计算机" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" />
         <category term="数据结构" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <category term="概念" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/" />
-        <category term="第四章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC%E5%9B%9B%E7%AB%A0/" />
+        <category term="第4章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC4%E7%AB%A0/" />
         <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <updated>2025-01-12T07:51:01.833Z</updated>
     </entry>
@@ -791,7 +791,7 @@ k=next[k];&lt;br /&gt;
         <category term="计算机" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" />
         <category term="数据结构" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <category term="概念" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/" />
-        <category term="第三章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC%E4%B8%89%E7%AB%A0/" />
+        <category term="第3章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC3%E7%AB%A0/" />
         <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <updated>2025-01-12T07:51:01.825Z</updated>
     </entry>
@@ -915,7 +915,7 @@ k=next[k];&lt;br /&gt;
         <category term="计算机" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" />
         <category term="数据结构" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <category term="概念" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/" />
-        <category term="第三章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC%E4%B8%89%E7%AB%A0/" />
+        <category term="第3章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC3%E7%AB%A0/" />
         <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <updated>2025-01-12T07:51:01.823Z</updated>
     </entry>
@@ -1200,7 +1200,7 @@ k=next[k];&lt;br /&gt;
         <category term="计算机" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" />
         <category term="数据结构" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <category term="概念" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/" />
-        <category term="第二章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC%E4%BA%8C%E7%AB%A0/" />
+        <category term="第2章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC2%E7%AB%A0/" />
         <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <updated>2025-01-12T07:51:01.818Z</updated>
     </entry>
@@ -1314,7 +1314,7 @@ k=next[k];&lt;br /&gt;
         <category term="计算机" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" />
         <category term="数据结构" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <category term="概念" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/" />
-        <category term="第一章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC%E4%B8%80%E7%AB%A0/" />
+        <category term="第1章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC1%E7%AB%A0/" />
         <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <updated>2025-01-12T07:51:01.811Z</updated>
     </entry>
@@ -1430,7 +1430,7 @@ k=next[k];&lt;br /&gt;
         <category term="计算机" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" />
         <category term="数据结构" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <category term="概念" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/" />
-        <category term="第一章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC%E4%B8%80%E7%AB%A0/" />
+        <category term="第1章" scheme="https://arboding.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC1%E7%AB%A0/" />
         <category term="数据结构" scheme="https://arboding.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
         <updated>2025-01-12T07:51:01.809Z</updated>
     </entry>
