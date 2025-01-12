@@ -1205,9 +1205,9 @@ k=next[k];&lt;br /&gt;
         <updated>2025-01-12T07:51:01.818Z</updated>
     </entry>
     <entry>
-        <id>https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/%E7%AC%AC1%E7%AB%A0/2.%E7%AE%97%E6%B3%95/</id>
+        <id>https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC1%E7%AB%A0/2.%E7%AE%97%E6%B3%95/</id>
         <title>2.算法</title>
-        <link rel="alternate" href="https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/%E7%AC%AC1%E7%AB%A0/2.%E7%AE%97%E6%B3%95/"/>
+        <link rel="alternate" href="https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC1%E7%AB%A0/2.%E7%AE%97%E6%B3%95/"/>
         <content type="html">&lt;h2 id=&#34;一-算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-算法&#34;&gt;#&lt;/a&gt; 一、算法&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;算法是解决特定问题求解步骤的描述，在计算机中表现为指令的有限序列，并且每个指令表示一个或多个操作。&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -1319,9 +1319,9 @@ k=next[k];&lt;br /&gt;
         <updated>2025-01-12T07:51:01.811Z</updated>
     </entry>
     <entry>
-        <id>https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/%E7%AC%AC1%E7%AB%A0/1.%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E6%9C%AF%E8%AF%AD/</id>
+        <id>https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC1%E7%AB%A0/1.%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E6%9C%AF%E8%AF%AD/</id>
         <title>1.基本概念及术语</title>
-        <link rel="alternate" href="https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/%E7%AC%AC1%E7%AB%A0/1.%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E6%9C%AF%E8%AF%AD/"/>
+        <link rel="alternate" href="https://arboding.github.io/2025/01/12/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A6%82%E5%BF%B5/%E7%AC%AC1%E7%AB%A0/1.%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E6%9C%AF%E8%AF%AD/"/>
         <content type="html">&lt;h2 id=&#34;一-数据&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-数据&#34;&gt;#&lt;/a&gt; 一、数据&lt;/h2&gt;
 &lt;p&gt;1.&lt;strong&gt; 数据&lt;/strong&gt;是信息的载体，是描述客观事物的数、字符、以及所有能输入到计算机中，被计算机程序识别和处理的符号的集合。&lt;/p&gt;
 &lt;p&gt;2. 数据分为：数值性数据和非数值性数据。&lt;/p&gt;
